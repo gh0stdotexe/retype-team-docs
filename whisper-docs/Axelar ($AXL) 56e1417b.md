@@ -1,0 +1,3 @@
+- [Axelar Validator Setup & Config ](<Axelar Validator Setup & Config b6c3b865.md>)
+- [Upgrading Axelar](<Upgrading Axelar d650617d.md>)
+- [Bridges: Fullnode Builds](<Bridges_ Fullnode Builds 2c6921dd.md>)

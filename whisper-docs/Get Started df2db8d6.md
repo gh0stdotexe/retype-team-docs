@@ -1,0 +1,4 @@
+- [0a. Create Non-Root User](<0a. Create Non-Root User b653d34b.md>)
+- [0b. Security I: UFW + Fail2ban](<0b. Security I_ UFW + Fail2ban d132b0ee.md>)
+- [0c. Security II: Multi-Factor Auth](<0c. Security II_ Multi-Factor Auth ab084c8a.md>)
+- [0d. Optimization Script](<0d. Optimization Script e230325c.md>)

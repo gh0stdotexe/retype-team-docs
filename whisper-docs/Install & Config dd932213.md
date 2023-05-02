@@ -1,0 +1,5 @@
+- [1. Full Node Prep](<1. Full Node Prep 7eeb60f4.md>)
+- [1a. Quick Sync](<1a. Quick Sync 043bd752.md>)
+- [1b. Migrate a Validator](<1b. Migrate a Validator 60f635a5.md>)
+- [1c. Performing an Upgrade](<1c. Performing an Upgrade 0787ab6b.md>)
+- [2. Setup Cosmovisor](<2. Setup Cosmovisor cc174b4c.md>)
